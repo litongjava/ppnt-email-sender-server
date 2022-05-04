@@ -6,6 +6,7 @@
 
 ## 系统部署
 1)前往release下载文件  
+[https://gitee.com/ppnt/ppnt-email-sender-server/releases/](https://gitee.com/ppnt/ppnt-email-sender-server/releases/)  
 2)解压文件  
 3)启动项目  
 windows启动执行
